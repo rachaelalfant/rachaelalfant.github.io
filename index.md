@@ -47,6 +47,6 @@ I am a 4th-year PhD student in Applied Math & Operations Research at [Rice Unive
 ### Service
 - **Graduate Advisory Committee Member**, Rice CAAM, June 2020 - Current
 - Rice Chapter of AWM: **Vice President** (Feb 2021 - Apr 2022), **Secretary**, Jan 2020 - Feb 2021
-- **Organizing Committee**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), Rice AWM Math Nights & Freshman Math Mentorship Program (Aug 2020 - Jan 2022)
+- **Organizing Committee**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
 - Rice Chapter of SIAM: **President** (Aug 2020 - Aug 2021), **Secretary** (Aug 2019 - Aug 2020)
 - **Teaching Assistant Volunteer**, University of Chicago Young Scholars Program, Jan 2015 - Mar 2017 
