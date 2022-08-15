@@ -24,7 +24,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at [Rice Unive
 ### Awards and Honors
 - **Best Poster Award (tied)**, AWM-SIAM AN22 Poster Session, July 2022
 - **[Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Mathematics, June 2022
-- **Sallyport Award Nominee**, Association of Rice Alumni, April 2022
+- **Sallyport Award Nominee**, Association of Rice Alumni, Apr 2022
 - **Robert Lowry Patten Award for Service & Achievement**, Rice Graduate Student Association, Apr 2021
 - **Honorable Mention**, [Ford Foundation Predoctoral Fellowship Program](https://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2021), Mar 2021
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
@@ -46,7 +46,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at [Rice Unive
 
 ### Service
 - **Graduate Advisory Committee Member**, Rice CAAM, June 2020 - Current
-- Rice Chapter of AWM: **Vice President** (Feb 2021 - Apr 2022), **Secretary**, Jan 2020 - Feb 2021
+- Rice Chapter of AWM: **Vice President** (Feb 2021 - Apr 2022), **Secretary** (Jan 2020 - Feb 2021)
 - **Organizing Committee**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
 - Rice Chapter of SIAM: **President** (Aug 2020 - Aug 2021), **Secretary** (Aug 2019 - Aug 2020)
 - **Teaching Assistant Volunteer**, University of Chicago Young Scholars Program, Jan 2015 - Mar 2017 
