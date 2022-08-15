@@ -38,7 +38,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Teaching
 - **Teaching Assistant**, Industrial Engineering Master's Program, Rice University
-    - INDE 572: Stochastic Processes & Simulation, Spring 2022
+    - INDE 572: Stochastic Processes & Simulation, Spring 2022  
 - **Teaching Assistant**, Department of Computational & Applied Mathematics, Rice University
     - CAAM 378: Intro to Optimization & Operations Research, Fall 2021
 - **Teaching Assistant**, University of Chicago
