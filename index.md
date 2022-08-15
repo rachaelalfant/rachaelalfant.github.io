@@ -38,22 +38,22 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Teaching
 - **Teaching Assistant**, Industrial Engineering Master's Program, Rice University
-  - INDE 572: Stochastic Processes & Simulation, Spring 2022
+    - INDE 572: Stochastic Processes & Simulation, Spring 2022
 - **Teaching Assistant**, Department of Computational & Applied Mathematics, Rice University
-  - CAAM 378: Intro to Optimization & Operations Research, Fall 2021
+    - CAAM 378: Intro to Optimization & Operations Research, Fall 2021
 - **Teaching Assistant**, University of Chicago
-  - Honors Calculus with Proofs, Chicago Academic Achievement Program, Summer 2016/2018, _Evaluations: 4.8/5.0_
-  - Calculus & Linear Algebra, College Core Tutoring Program, Winter 2017
-  - Math 131/132/133: Introduction to Calculus, Fall 2015 - 2016 
+    - Honors Calculus with Proofs, Chicago Academic Achievement Program, Summer 2016/2018, _Evaluations: 4.8/5.0_
+    - Calculus & Linear Algebra, College Core Tutoring Program, Winter 2017
+    - Math 131/132/133: Introduction to Calculus, Fall 2015 - 2016 
 
 ### Service
 - **Graduate Advisory Committee Member**, Rice CAAM, June 2020 - Current
 - Rice Chapter of AWM
-  - **Vice President**, Feb 2021 - Apr 2022
-  - **Organizer**, [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about), Feb 2020 - Feb 2022
-  - **Organizer**, Rice AWM Math Nights & Freshman Math Mentorship Program, Aug 2020 - Jan 2022
-  - **Secretary**, Jan 2020 - Feb 2021
+    - **Vice President**, Feb 2021 - Apr 2022
+    - **Organizer**, [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about), Feb 2020 - Feb 2022
+    - **Organizer**, Rice AWM Math Nights & Freshman Math Mentorship Program, Aug 2020 - Jan 2022
+    - **Secretary**, Jan 2020 - Feb 2021
 - Rice Chapter of SIAM
-  - **President**, Aug 2020 - Aug 2021
-  - **Secretary**, Aug 2019 - Aug 2020
+    - **President**, Aug 2020 - Aug 2021
+    - **Secretary**, Aug 2019 - Aug 2020
 - **Teaching Assistant Volunteer**, University of Chicago Young Scholars Program, Jan 2015 - Mar 2017 
