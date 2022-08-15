@@ -7,9 +7,9 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ### Education
-- Ph.D. Computational and Applied Mathematics, Rice University, May 2024 (expected)
-- M.A. Computational and Applied Mathematics, Rice University, May 2022
-- B.A. Mathematics, University of Chicago, General Honors, March 2018
+- **Ph.D.** Computational and Applied Mathematics, Rice University, May 2024 (expected)
+- **M.A.** Computational and Applied Mathematics, Rice University, May 2022
+- **B.A.** Mathematics, University of Chicago, General Honors, March 2018
 
 ### Research Interests
 - Stochastic mixed integer programming & computational discrete optimization
