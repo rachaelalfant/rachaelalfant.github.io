@@ -15,7 +15,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - Stochastic mixed integer programming & computational discrete optimization
 - Theory of mixed integer programming 
 
-### Research and Experience 
+### Research Experience 
 - **Visiting Graduate Student**, Argonne National Laboratory: Mathematics & Computer Science Division, Current
 - **Givens Associate PhD Intern**, Argonne National Laboratory: Mathematics & Computer Science Division, Summer 2022
 - **Research Assistant**, University of Chicago: Booth School of Business, Summer 2019
