@@ -1,25 +1,25 @@
 ### About me
 
-I am a 4th-year PhD student in Applied Math & Operations Research at [Rice University](https://cmor.rice.edu/). My research focuses on stochastic optimization and mixed integer programming. I am advised by Dr. Andrew J. Schaefer (Rice University) and Dr. Kibaek Kim (Argonne National Laboratory). 
+I am a 4th-year PhD student in Applied Math & Operations Research at Rice University. My research focuses on stochastic optimization and mixed integer programming. I am advised by Dr. Andrew J. Schaefer ([Rice University](https://cmor.rice.edu)) and Dr. Kibaek Kim ([Argonne National Laboratory](https://www.anl.gov/mcs)). 
 
 #### Contact info
-- **Email**: rma10 [at] rice.edu
+- **Email**: rma10 [at] rice.edu 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ### Education
-- **Ph.D.** Computational and Applied Mathematics, Rice University, May 2024 (expected)
-- **M.A.** Computational and Applied Mathematics, Rice University, May 2022
-- **B.A.** Mathematics, University of Chicago, General Honors, March 2018
+- **Ph.D.** Computational & Applied Mathematics, Rice University, May 2024 (expected)
+- **M.A.** Computational & Applied Mathematics, Rice University, May 2022
+- **B.A.** Mathematics (General Honors), University of Chicago, March 2018
 
 ### Research Interests
 - Stochastic mixed integer programming & computational discrete optimization
 - Theory of mixed integer programming 
 
 ### Research and Experience 
-- **Visiting Graduate Student**, Argonne National Laboratory, Current
-- **Givens Associate PhD Intern**, Argonne National Laboratory, Summer 2022
-- **Research Assistant**, University of Chicago - Booth School of Business, Summer 2019
-- **Research Assistant**, University of Chicago - Dept. of Public Health Sciences, Summer 2018
+- **Visiting Graduate Student**, Argonne National Laboratory: Mathematics & Computer Science Division, Current
+- **Givens Associate PhD Intern**, Argonne National Laboratory: Mathematics & Computer Science Division, Summer 2022
+- **Research Assistant**, University of Chicago: Booth School of Business, Summer 2019
+- **Research Assistant**, University of Chicago: Dept. of Public Health Sciences, Summer 2018
 
 ### Awards and Honors
 - **Best Poster Award (tied)**, AWM-SIAM AN22 Poster Session, July 2022
@@ -37,16 +37,16 @@ I am a 4th-year PhD student in Applied Math & Operations Research at [Rice Unive
 - **An Introduction to Set Theory**, Chicago Academic Achievement Program, Aug 2018
 
 ### Teaching
-- **Teaching Assistant**, Industrial Engineering Master's Program, Rice University, _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
-- **Teaching Assistant**, Department of Computational & Applied Mathematics, Rice University, _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021
+- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program, _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
+- **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics, _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021
 - **Teaching Assistant**, University of Chicago
-    - Honors Calculus with Proofs, Chicago Academic Achievement Program, Summer 2016/2018, _Evaluations: 4.8/5.0_
-    - Calculus & Linear Algebra, College Core Tutoring Program, Winter 2017
-    - Math 131/132/133: Introduction to Calculus, Fall 2015 - 2016 
+    - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
+    - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
+    - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016 
 
 ### Service
-- **Graduate Advisory Committee Member**, Rice CAAM, June 2020 - Current
+- **Graduate Advisory Committee Member**, Rice Dept. of CAAM, June 2020 - Current
 - Rice Chapter of AWM: **Vice President** (Feb 2021 - Apr 2022), **Secretary** (Jan 2020 - Feb 2021)
-- **Organizing Committee**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
+- **Organizing Committees**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
 - Rice Chapter of SIAM: **President** (Aug 2020 - Aug 2021), **Secretary** (Aug 2019 - Aug 2020)
-- **Teaching Assistant Volunteer**, University of Chicago Young Scholars Program, Jan 2015 - Mar 2017 
+- **Teaching Assistant Volunteer**, University of Chicago: Young Scholars Program, Jan 2015 - Mar 2017 
