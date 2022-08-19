@@ -1,6 +1,6 @@
 ### About me
 
-I am a 4th-year PhD student in Applied Math & Operations Research at Rice University. My research focuses on stochastic optimization and mixed integer programming. I am advised by Dr. Andrew J. Schaefer ([Rice University](https://cmor.rice.edu)) and Dr. Kibaek Kim ([Argonne National Laboratory](https://www.anl.gov/mcs)). 
+I am a 4th-year PhD student in Applied Math & Operations Research; my research focuses on stochastic optimization and mixed integer programming. I am advised by Dr. Andrew J. Schaefer ([Rice University](https://cmor.rice.edu)) and Dr. Kibaek Kim ([Argonne National Laboratory](https://www.anl.gov/mcs)). 
 
 #### Contact info
 - **Email**: rma10 [at] rice.edu 
