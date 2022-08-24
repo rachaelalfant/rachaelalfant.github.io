@@ -45,6 +45,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research; my research f
     - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016 
 
 ### Service
+- **Graduate Seminar Chair** (Aug 2022 - Current): Rice Dept. of CAAM
 - **Graduate Advisory Committee Member** (June 2020 - Current): Rice Dept. of CAAM
 - **Vice President** (Feb 2021 - Apr 2022), **Secretary** (Jan 2020 - Feb 2021): Rice Chapter of AWM
 - **Organizing Committees**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
