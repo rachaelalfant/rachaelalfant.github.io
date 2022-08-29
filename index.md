@@ -37,9 +37,12 @@ I am a 4th-year PhD student in Applied Math & Operations Research; my research f
 - **An Introduction to Set Theory**, Chicago Academic Achievement Program, Aug 2018
 
 ### Teaching
-- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program, _INDE 501: Fundamentals of Industrial Engineering/INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
-- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program, _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
-- **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics, _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021
+- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
+    - _INDE 501: Fundamentals of Industrial Engineering_, Fall 2022
+    - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
+    - _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
+- **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics 
+    - _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021
 - **Teaching Assistant**, University of Chicago
     - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
     - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
