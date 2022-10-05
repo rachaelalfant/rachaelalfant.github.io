@@ -30,12 +30,12 @@ I am a 4th-year PhD student in Applied Math & Operations Research; my research f
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
 ### Presentations 
-- **Absolute and Relative Mixed Integer Programming Gap Functions & Their Properties**, Rice CAAM Graduate Seminar, Sept 2022
+- **Absolute and Relative MIP Gap Functions & Their Properties**, Rice CAAM Graduate Seminar, Sept 2022
 - **Multistage Stochastic Mixed Integer Programming using DSP**, Summer Argonne Students Symposium, Aug 2022
-- **Periodicity of Mixed Integer Programming Gap Functions**, SIAM AN22: AWM Poster Session, July 2022
-- **Periodicity of Mixed Integer Programming Gap Functions**, Mixed Integer Programming Workshop: Poster Session, June 2022
+- **Periodicity of MIP Gap Functions**, SIAM AN22: AWM Poster Session, July 2022
+- **Periodicity of MIP Gap Functions**, Mixed Integer Programming Workshop: Poster Session, June 2022
 - **An Intro to Rice CAAM & Mixed Integer Programming**, Rice CAAM Visiting Student Lecture, Feb 2022
-- **Evaluating Mixed Integer Programming Models over Multiple Right-hand Sides**, Rice CAAM Graduate Seminar, Oct 2021
+- **Evaluating MIP Models over Multiple Right-hand Sides**, Rice CAAM Graduate Seminar, Oct 2021
 - **An Introduction to Set Theory**, Chicago Academic Achievement Program, Aug 2018
 
 ### Teaching
