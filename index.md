@@ -30,7 +30,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research; my research f
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
 ### Publications
-- R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. Submitted for publication. Preprint available: https://optimization-online.org/?p=20481. 
+- R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. Submitted for publication. Preprint available on [Optimization Online](https://optimization-online.org/?p=20481). 
 
 ### Presentations 
 - **Absolute and Relative MIP Gap Functions & Their Properties**, Rice CAAM Graduate Seminar, Sept 2022
