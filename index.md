@@ -29,6 +29,9 @@ I am a 4th-year PhD student in Applied Math & Operations Research; my research f
 - **Honorable Mention**, [Ford Foundation Predoctoral Fellowship Program](https://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2021), Mar 2021
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
+### Publications
+- R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. Submitted for publication. Preprint available: https://optimization-online.org/?p=20481. 
+
 ### Presentations 
 - **Absolute and Relative MIP Gap Functions & Their Properties**, Rice CAAM Graduate Seminar, Sept 2022
 - **Multistage Stochastic Mixed Integer Programming using DSP**, Summer Argonne Students Symposium, Aug 2022
