@@ -31,6 +31,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Publications
 - R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. Submitted for publication. Preprint available on [Optimization Online](https://optimization-online.org/?p=20481). 
+- R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. Available on the [INFORMS Diversity Community Blog](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ### Presentations 
 - **Absolute and Relative MIP Gap Functions & Their Properties**, Rice CAAM Graduate Seminar, Sept 2022
