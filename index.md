@@ -23,7 +23,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Awards and Honors
 - **Best Poster Award (tied)**, AWM-SIAM AN22 Poster Session, July 2022
-- **[Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Mathematics, June 2022
+- **[Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Mathematics (AWM), June 2022
 - **Sallyport Award Nominee**, Association of Rice Alumni, Apr 2022
 - **Robert Lowry Patten Award for Service & Achievement**, Rice Graduate Student Association, Apr 2021
 - **Honorable Mention**, [Ford Foundation Predoctoral Fellowship Program](https://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2021), Mar 2021
@@ -48,16 +48,18 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
     - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
     - _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
 - **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics 
-    - _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021
+    - _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021, Spring 2023
 - **Teaching Assistant**, University of Chicago
     - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
     - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
     - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016 
 
 ### Service
+- Forum for Women in Operations Research/Management Science (WORMS)
+    - **Diversity, Equity, & Inclusion Liaison** (Jan 2023 - Current)
 - Rice Dept. of CAAM
     - **Graduate Seminar Chair** (Aug 2022 - Current)
-    - **Graduate Advisory Committee Member** (June 2020 - Current)
+    - **Graduate Advisory Committee Member** (June 2020 - Dec 2022)
 - Rice Chapter of AWM
     - **Vice President** (Feb 2021 - Apr 2022), **Secretary** (Jan 2020 - Feb 2021)
     - **Organizing Committees**: [Texas Women in Math Symposium](https://sites.google.com/view/twims-2022/about) (Feb 2020 - Feb 2022), [Rice AWM Math Nights & Freshman Math Mentorship Program](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html) (Aug 2020 - Jan 2022)
