@@ -34,11 +34,16 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. Available on the [INFORMS Diversity Community Blog](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ### Presentations 
-- **Multistage Stochastic Mixed Integer Programming using DSP**, Texas Women in Math Symposium, March 2023
-- **Absolute and Relative MIP Gap Functions & Their Properties**, INFORMS Annual Meeting, Oct 2022
-- **Multistage Stochastic Mixed Integer Programming using DSP**, Summer Argonne Students Symposium, Aug 2022
-- **Periodicity of MIP Gap Functions**, SIAM AN22: AWM Poster Session, July 2022
-- **Periodicity of MIP Gap Functions**, Mixed Integer Programming Workshop: Poster Session, June 2022
+- **Multistage Stochastic Mixed Integer Programming using Decomposition of Structured Programs (DSP)**
+    - Texas Women in Math Symposium, Mar 2023
+    - Rice CAAM Graduate Seminar, Feb 2023
+    - Summer Argonne Students Symposium, Aug 2022
+- **Absolute and Relative MIP Gap Functions & Their Properties**
+    - INFORMS Annual Meeting, Oct 2022
+    - Rice CAAM Graduate Seminar, Sept 2022
+- **Periodicity of MIP Gap Functions**
+    - SIAM AN22: AWM Poster Session, July 2022
+    - Mixed Integer Programming Workshop: Poster Session, June 2022
 - **An Intro to Rice CAAM & Mixed Integer Programming**, Rice CAAM Visiting Student Lecture, Feb 2022
 - **Evaluating MIP Models over Multiple Right-hand Sides**, Rice CAAM Graduate Seminar, Oct 2021
 - **An Introduction to Set Theory**, Chicago Academic Achievement Program, Aug 2018
