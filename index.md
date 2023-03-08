@@ -44,9 +44,12 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - **Periodicity of MIP Gap Functions**
     - SIAM AN22: AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
-- **An Intro to Rice CAAM & Mixed Integer Programming**, Rice CAAM Visiting Student Lecture, Feb 2022
-- **Evaluating MIP Models over Multiple Right-hand Sides**, Rice CAAM Graduate Seminar, Oct 2021
-- **An Introduction to Set Theory**, Chicago Academic Achievement Program, Aug 2018
+- **An Intro to Rice CAAM & Mixed Integer Programming**
+    - Rice CAAM Visiting Student Lecture, Feb 2022
+- **Evaluating MIP Models over Multiple Right-hand Sides**
+    - Rice CAAM Graduate Seminar, Oct 2021
+- **An Introduction to Set Theory**
+    - Chicago Academic Achievement Program, Aug 2018
 
 ### Teaching
 - **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
