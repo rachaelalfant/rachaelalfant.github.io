@@ -42,6 +42,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
     - INFORMS Annual Meeting, Oct 2022
     - Rice CAAM Graduate Seminar, Sept 2022
 - **Periodicity of MIP Gap Functions**
+    - ICERM - Trends in Computational Discrete Optimization: Poster Session, May 2023
     - SIAM AN22: AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
 - **An Intro to Rice CAAM & Mixed Integer Programming**
@@ -52,6 +53,8 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
     - Chicago Academic Achievement Program, Aug 2018
 
 ### Teaching
+- **Instructor of Record**, Rice Emerging Scholars Program
+    - _Calculus I & II_, Summer 2023
 - **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
     - _INDE 501: Fundamentals of Industrial Engineering_, Fall 2022
     - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
@@ -67,7 +70,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - Forum for Women in Operations Research/Management Science (WORMS)
     - **Diversity, Equity, & Inclusion Liaison** (Jan 2023 - Current)
 - Rice Dept. of CAAM
-    - **Graduate Seminar Chair** (Aug 2022 - Current)
+    - **Graduate Seminar Chair** (Aug 2022 - Apr 2023)
     - **Graduate Advisory Committee Member** (June 2020 - Dec 2022)
 - Rice Chapter of AWM
     - **Vice President** (Feb 2021 - Apr 2022), **Secretary** (Jan 2020 - Feb 2021)
