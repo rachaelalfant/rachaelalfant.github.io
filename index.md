@@ -30,7 +30,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
 ### Publications
-- R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. Submitted for publication. Preprint available on [Optimization Online](https://optimization-online.org/?p=20481). 
+- R.M. Alfant, T. Ajayi, A.J. Schaefer. **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. To appear in Operations Research Letters. Accepted author manuscript available on [Optimization Online](https://optimization-online.org/?p=20481). 
 - R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. Available on the [INFORMS Diversity Community Blog](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ### Presentations 
