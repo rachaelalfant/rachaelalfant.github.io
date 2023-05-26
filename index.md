@@ -1,6 +1,6 @@
 ### About me
 
-I am a 4th-year PhD student in Applied Math & Operations Research at Rice University. My research focuses on stochastic optimization and mixed integer programming. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. 
+I am a 4th-year PhD student in Applied Math & Operations Research at Rice University; my research focuses on stochastic mixed integer programming. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. 
 
 #### Contact info
 - **Email**: rma10 [at] rice.edu 
@@ -35,6 +35,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Presentations 
 - **Multistage Stochastic Mixed Integer Programming using Decomposition of Structured Programs (DSP)**
+    - SIAM Conf. on Optimization (OP23): AWM Poster Session, May 2023
     - Texas Women in Math Symposium, Mar 2023
     - Rice CAAM Graduate Seminar, Feb 2023
     - Summer Argonne Students Symposium, Aug 2022
@@ -43,7 +44,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
     - Rice CAAM Graduate Seminar, Sept 2022
 - **Periodicity of MIP Gap Functions**
     - ICERM - Trends in Computational Discrete Optimization: Poster Session, May 2023
-    - SIAM AN22: AWM Poster Session, July 2022
+    - SIAM Annual Meeting (AN22): AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
 - **An Intro to Rice CAAM & Mixed Integer Programming**
     - Rice CAAM Visiting Student Lecture, Feb 2022
@@ -54,7 +55,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 
 ### Teaching
 - **Instructor of Record**, Rice Emerging Scholars Program
-    - _Calculus I & II_, Summer 2023
+    - _Differential Calculus_, Summer 2023
 - **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
     - _INDE 501: Fundamentals of Industrial Engineering_, Fall 2022
     - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
