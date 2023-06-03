@@ -22,6 +22,7 @@ I am a 4th-year PhD student in Applied Math & Operations Research at Rice Univer
 - **Research Assistant**, University of Chicago: Dept. of Public Health Sciences, Summer 2018
 
 ### Awards and Honors
+- **Outstanding Graduate Student Research Poster - Honorable Mention**, AWM-SIAM OP23 Poster Session, June 2023
 - **Best Poster Award (tied)**, AWM-SIAM AN22 Poster Session, July 2022
 - **[Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Mathematics (AWM), June 2022
 - **Sallyport Award Nominee**, Association of Rice Alumni, Apr 2022
