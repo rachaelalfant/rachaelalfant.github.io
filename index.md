@@ -1,6 +1,6 @@
 ### About me
 
-I am a 5th-year PhD student in the Department of Computational Applied Math & Operations Research at Rice University; my research focuses on mixed integer programming. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. 
+I am a PhD Candidate in the Department of Computational Applied Math & Operations Research at Rice University; my research focuses on mixed integer programming. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. 
 
 #### Contact info
 - **Email**: rma10 [at] rice.edu 
