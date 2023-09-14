@@ -1,6 +1,6 @@
 ### About me
 
-I am a PhD Candidate in the Department of Computational Applied Math & Operations Research at Rice University; my research focuses on mixed integer programming. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. 
+I am a Ph.D. Candidate in the Department of Computational Applied Math & Operations Research at Rice University; my research focuses on mixed integer programming with applications in cloud computing. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. Here is my [CV](https://drive.google.com/file/d/1qYlviw6Kk5QVVyy9QOlyPsavxClqF7Z_/view?usp=sharing).
 
 #### Contact info
 - **Email**: rma10 [at] rice.edu 
@@ -10,6 +10,12 @@ I am a PhD Candidate in the Department of Computational Applied Math & Operation
 - **Ph.D.** Computational & Applied Mathematics, Rice University, May 2024 (expected)
 - **M.A.** Computational & Applied Mathematics, Rice University, May 2022
 - **B.A.** Mathematics (General Honors), University of Chicago, March 2018
+
+### Publications
+- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Multi-period Capacity Allocation for Cloud Computing Systems with Stochastic Demand: A Multistage Approach**. (In preparation).
+- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Optimizing Long-term Dynamic Pricing Policies in the Cloud**. (In preparation).
+- R.M. Alfant, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
+- R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ### Teaching
 - **Instructor of Record**, Rice Emerging Scholars Program
@@ -24,16 +30,11 @@ I am a PhD Candidate in the Department of Computational Applied Math & Operation
     - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
     - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
     - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016
-
+ 
 ### Research Interests
 - Mathematical Optimization for Cloud Computing
 - Theory of Mixed Integer Programming (MIP)
 - Stochastic Programming & Algorithms for Discrete Optimization
-- Climate Modeling & Disaster Mitigation
-
-### Publications
-- R.M. Alfant, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. [_Operations Research Letters_](https://doi.org/10.1016/j.orl.2023.05.004). 
-- R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. Available on the [INFORMS Diversity Community Blog](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ### Research Experience 
 - **Visiting Graduate Student**, Argonne National Laboratory: Mathematics & Computer Science Division, Fall 2022 - Spring 2023
