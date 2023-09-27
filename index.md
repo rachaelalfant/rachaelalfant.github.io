@@ -1,7 +1,7 @@
 
 <img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/rachael1.jpg?raw=true' width='200'>
 
-I am a Ph.D. Candidate in the Department of Computational Applied Math & Operations Research at Rice University; my research focuses on mixed integer programming with applications in cloud computing. I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. Here is my [CV](https://drive.google.com/file/d/1qYlviw6Kk5QVVyy9QOlyPsavxClqF7Z_/view?usp=sharing).
+I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests are in mixed integer programming with applications in resource allocation and logistics. My current research focus is in optimization for cloud computing; I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1qYlviw6Kk5QVVyy9QOlyPsavxClqF7Z_/view?usp=sharing).
 
 **I am currently on the job market!**
 
