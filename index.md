@@ -1,7 +1,7 @@
 
 <img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/rachael1.jpg?raw=true' width='200'>
 
-I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests are in mixed integer programming with applications in resource allocation and logistics. My current research focus is in optimization for cloud computing; I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1qYlviw6Kk5QVVyy9QOlyPsavxClqF7Z_/view?usp=sharing).
+I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests are in mixed integer programming with applications in resource allocation and logistics. My current research focus is in optimization for cloud computing; I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
 
 **I am currently on the job market!**
 
@@ -55,6 +55,10 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
 ## Selected Talks 
+- **A Stochastic Nonlinear Programming Approach to Pricing in the Cloud**
+    - INFORMS Annual Meeting, Oct 2023
+    - University of Pittsburgh: AWM Student Seminar, Oct 2023
+    - Rice CMOR (formerly CAAM) Graduate Seminar, Oct 2023
 - **Multistage Stochastic Mixed Integer Programming using Decomposition of Structured Programs (DSP)**
     - SIAM Conf. on Optimization (OP23): AWM Poster Session, May 2023
     - Texas Women in Math Symposium, Mar 2023
@@ -74,9 +78,11 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
 - **An Introduction to Set Theory**
     - Chicago Academic Achievement Program, Aug 2018
 
-## Service
+## Selected Service
 - Forum for Women in Operations Research/Management Science (WORMS)
     - **Diversity, Equity, & Inclusion Liaison** (Jan 2023 - Current)
+- INFORMS Annual Meeting
+    - **Session Chair** (Oct 2023)
 - Rice Dept. of CAAM
     - **Graduate Seminar Chair** (Aug 2022 - Apr 2023)
     - **Graduate Advisory Committee Member** (June 2020 - Dec 2022)
