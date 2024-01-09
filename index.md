@@ -10,7 +10,7 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ## Recent News
-- I will be giving talks at the [INFORMS Annual Meeting](https://www.abstractsonline.com/pp8/#!/10856/session/1443) and the [University of Pittsburgh](https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series) in October!
+- I will be giving a talk at the [Dartmouth Applied & Computational Mathematics Seminar](https://math.dartmouth.edu/~acms/) in March!
 - I have been selected as a [Level 3 Future Faculty Fellow](https://engineering.rice.edu/academics/graduate-programs/future-faculty-fellows) for the 2023-2024 academic year.
 - In August, I completed the [Professional Leadership Coaching Program](https://doerr.rice.edu/) at the Doerr Institute for New Leaders.
 
@@ -68,6 +68,7 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
     - INFORMS Annual Meeting, Oct 2022
     - Rice CAAM Graduate Seminar, Sept 2022
 - **Periodicity of MIP Gap Functions**
+    - Joint Mathematics Meetings: AWM Poster Session, Jan 2024
     - ICERM - Trends in Computational Discrete Optimization: Poster Session, May 2023
     - SIAM Annual Meeting (AN22): AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
