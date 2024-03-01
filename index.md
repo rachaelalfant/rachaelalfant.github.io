@@ -3,7 +3,7 @@
 
 I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests are in mixed integer programming with applications in resource allocation and logistics. My current research focus is in optimization for cloud computing; I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
 
-##### Contact info
+### Contact info
 - **Email**: rma10 [at] rice.edu 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
