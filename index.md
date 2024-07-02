@@ -1,19 +1,20 @@
 
 <img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/rachael1.jpg?raw=true' width='200'>
 
-I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests are in mixed integer programming with applications in resource allocation and logistics. My current research focus is in optimization for cloud computing; I am advised by Dr. Sebastian Perez-Salazar and Dr. Andrew J. Schaefer. I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
+I am a postdoc at Sandia National Laboratories specializing in optimization and operations research. I received my PhD from the Department of Computational Applied Mathematics & Operations Research at Rice University. In addition to research, I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
 
 ### Contact info
 - **Email**: rma10 [at] rice.edu 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ## Recent News
-- I will be giving a talk at the [Dartmouth Applied & Computational Mathematics Seminar](https://math.dartmouth.edu/~acms/) in March!
-- I have been selected as a [Level 3 Future Faculty Fellow](https://engineering.rice.edu/academics/graduate-programs/future-faculty-fellows) for the 2023-2024 academic year.
+- I successfully [defended my PhD thesis](https://events.rice.edu/event/359756-applications-of-mixed-integer-programming-to-cloud) on May 1st!
+- In March, I gave a talk at the [Dartmouth Applied & Computational Mathematics Seminar](https://math.dartmouth.edu/~acms/).
+- I was selected as a [Level 3 Future Faculty Fellow](https://engineering.rice.edu/academics/graduate-programs/future-faculty-fellows) for the 2023-2024 academic year.
 - In August, I completed the [Professional Leadership Coaching Program](https://doerr.rice.edu/) at the Doerr Institute for New Leaders.
 
 ## Education
-- **Ph.D.** Computational & Applied Mathematics, Rice University, May 2024 (expected)
+- **Ph.D.** Computational & Applied Mathematics, Rice University, May 2024
 - **M.A.** Computational & Applied Mathematics, Rice University, May 2022
 - **B.A.** Mathematics (General Honors), University of Chicago, March 2018
 
@@ -22,6 +23,13 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
 - R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Optimizing Long-term Dynamic Pricing Policies in the Cloud**. (In preparation).
 - R.M. Alfant, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
 - R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
+
+## Research Experience 
+- **Postdoctoral Appointee**, Sandia National Laboratories: Center for Computing Research, Current
+- **Visiting Graduate Student**, Argonne National Laboratory: Mathematics & Computer Science Division, Fall 2022 - Spring 2023
+- **Givens Associate PhD Intern**, Argonne National Laboratory: Mathematics & Computer Science Division, Summer 2022
+- **Research Assistant**, University of Chicago: Booth School of Business, Summer 2019
+- **Research Assistant**, University of Chicago: Dept. of Public Health Sciences, Summer 2018
 
 ## Teaching
 - **Instructor of Record**, Rice Emerging Scholars Program
@@ -36,12 +44,6 @@ I am a Ph.D. Candidate in the Department of Computational Applied Mathematics & 
     - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
     - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
     - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016
-
-## Research Experience 
-- **Visiting Graduate Student**, Argonne National Laboratory: Mathematics & Computer Science Division, Fall 2022 - Spring 2023
-- **Givens Associate PhD Intern**, Argonne National Laboratory: Mathematics & Computer Science Division, Summer 2022
-- **Research Assistant**, University of Chicago: Booth School of Business, Summer 2019
-- **Research Assistant**, University of Chicago: Dept. of Public Health Sciences, Summer 2018
 
 ## Selected Awards and Honors
 - **Outstanding Graduate Student Research Poster - Honorable Mention**, AWM-SIAM OP23 Poster Session, June 2023
