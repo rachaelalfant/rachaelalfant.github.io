@@ -4,7 +4,7 @@
 I am a postdoc at Sandia National Laboratories specializing in optimization and operations research. I received my PhD from the Department of Computational Applied Mathematics & Operations Research at Rice University. In addition to research, I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
 
 ### Contact info
-- **Email**: rma10 [at] rice.edu 
+- **Email**: ralfant [at] alumni.rice.edu 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ## Recent News
@@ -19,8 +19,8 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 - **B.A.** Mathematics (General Honors), University of Chicago, March 2018
 
 ## Publications
-- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Multi-period Capacity Allocation for Cloud Computing Systems with Stochastic Demand: A Multistage Approach**. (In preparation).
-- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Optimizing Long-term Dynamic Pricing Policies in the Cloud**. (In preparation).
+- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Dynamic Pricing for Optimizing Energy Usage Efficiency and Revenue within Cloud Computing Data Centers**. (In preparation).
+- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Optimal Capacity Provisioning in the Cloud using Mixed Integer Programming**. (In preparation).
 - R.M. Alfant, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
 - R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
@@ -81,7 +81,7 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 
 ## Selected Service
 - Forum for Women in Operations Research/Management Science (WORMS)
-    - **Diversity, Equity, & Inclusion Liaison** (Jan 2023 - Current)
+    - **Mentoring & Outreach Liaison** (Jan 2023 - Current)
 - INFORMS Annual Meeting
     - **Session Chair** (Oct 2023)
 - Rice Dept. of CAAM
