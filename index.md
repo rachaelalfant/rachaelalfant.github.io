@@ -1,28 +1,39 @@
 
-<img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/rachael1.jpg?raw=true' width='200'>
+<img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/headshot.jpg' width='200'>
 
-I am a postdoc at Sandia National Laboratories specializing in optimization and operations research. I received my PhD from the Department of Computational Applied Mathematics & Operations Research at Rice University. In addition to research, I am interested in teaching and mentoring students in STEM, involving students in mathematical research, and creating initiatives that aim to increase the participation of underrepresented students in academia. Here is my [CV](https://drive.google.com/file/d/1kyY77R7OMus6SzVQDDE47UBuhMtVVdlJ/view?usp=sharing).
+I am a postdoc at Sandia National Laboratories specializing in optimization and operations research for power grid planning. I received my PhD in Computational Mathematics & Operations Research at Rice University. 
 
 ### Contact info
 - **Email**: ralfant [at] alumni.rice.edu 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ## Recent News
-- I successfully [defended my PhD thesis](https://events.rice.edu/event/359756-applications-of-mixed-integer-programming-to-cloud) on May 1st!
-- In March, I gave a talk at the [Dartmouth Applied & Computational Mathematics Seminar](https://math.dartmouth.edu/~acms/).
-- I was selected as a [Level 3 Future Faculty Fellow](https://engineering.rice.edu/academics/graduate-programs/future-faculty-fellows) for the 2023-2024 academic year.
-- In August, I completed the [Professional Leadership Coaching Program](https://doerr.rice.edu/) at the Doerr Institute for New Leaders.
+- I will be giving a talk at the [ICERM Workshop on Asynchronous Methods for Numerical Linear Algebra](https://icerm.brown.edu/program/topical_workshop/tw-26-amn) in May!
+- I attended and gave a talk on optimization for power grids at the [Rising Stars in Computational and Data Sciences Workshop](https://risingstars.oden.utexas.edu) in April.
+- I chaired an invited session and gave a talk about extreme day selection for electricity grid capacity expansion planning at the [INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu) in March.
+- I gave a talk about power grid resiliency at the [USACM Energy & Earth Systems TTA Seminar](https://www.usacm.org/site_home.cfm) in November.
 
 ## Education
-- **Ph.D.** Computational & Applied Mathematics, Rice University, May 2024
+- **Ph.D.** Computational Mathematics & Operations Research, Rice University, May 2024
 - **M.A.** Computational & Applied Mathematics, Rice University, May 2022
 - **B.A.** Mathematics (General Honors), University of Chicago, March 2018
 
 ## Publications
-- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Dynamic Pricing for Optimizing Energy Usage Efficiency and Revenue within Cloud Computing Data Centers**. (In preparation).
-- R.M. Alfant, S. Perez-Salazar, A.J. Schaefer. **Optimal Capacity Provisioning in the Cloud using Mixed Integer Programming**. (In preparation).
-- R.M. Alfant, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
-- R.M. Alfant (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
+- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, C.L. Doyle, T.R. Edwards. **Selecting Key Days for Electricity Grid Capacity Expansion Planning Considering Resilience to Compound Hazards**. _In prep_.
+- **R. M. Alfant**, Z. Kilwein, M. Viens, G. Stinchfield, W. Hart. **Stochastic Programming And Related Optimization Workflows (SPAROW): A Python Package for Modeling and Solving Stochastic Programs with Pyomo**. _In prep_.
+- Z. Kilwein, **R. M. Alfant**, M. Viens, W. Hart. **Performant Optimization Strategies for Multifidelity Stochastic Programs on Power Grid Applications**. _In prep_.
+- Z. Kilwein, **R. M. Alfant**, W. Hart. **Challenges of Neural Networks in Generalizing Optimal Power Flow Solutions Across Diverse Power Grid Topologies**. _Submitted for publication_.
+- T. Gunda, R. Valdez, Z. Kilwein, **R. M. Alfant**, J.K. Skolfield, R. Adams, N.D. Jackson. Wiring Resilience: Metrics for a Weather-Adapted Cyber-Physical Grid. _Submitted for publication_.
+- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, T.R. Edwards (2025). **Generation and Transmission Expansion Planning for Resilience to Compound Hazards**. _2025 Resilience Week (RWS), National Harbor, MD, USA_, p.1-8. [https://doi.org/10.1109/RWS66711.2025.11304451](https://doi.org/10.1109/RWS66711.2025.11304451).
+- Z. Kilwein, **R. M. Alfant**, W. Hart (2025). **Accelerating Stochastic Unit Commitment with Multifidelity Scenario Bundling**. _2025 57th North American Power Symposium (NAPS), Storrs, CT, USA_, p.1-6. [https://doi.org/10.1109/NAPS66256.2025.11272380](https://doi.org/10.1109/NAPS66256.2025.11272380).
+- **R.M. Alfant**, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_, 51(4), 414-420. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
+- **R.M. Alfant** (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
+
+## Open-Source Software
+- [SPAROW: Stochastic Programming and Related Optimization Workflows](https://github.com/sandialabs/sparow/), _Main Development Team_, Python.
+- [SPAROW Examples](https://github.com/sandialabs/sparow_examples/), _Main Development Team_, Python.
+- [NNOPF: Neural Networks for Optimal Power Flow](https://github.com/sandialabs/nnopf), _Contributor_, Python.
+- [DSP: Decomposition of Structured Programs](https://github.com/kibaekkim/DSPopt.jl/tree/ra/multistage/examples/multistage), _Contributor: Multistage Stochastic Programming_, Julia.
 
 ## Research Experience 
 - **Postdoctoral Appointee**, Sandia National Laboratories: Center for Computing Research, Current
@@ -54,35 +65,34 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 - **Honorable Mention**, [Ford Foundation Predoctoral Fellowship Program](https://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2021), Mar 2021
 - **Undergraduate Summer Research Grant**, University of Chicago, June 2018
 
-## Selected Talks 
-- **A Stochastic Nonlinear Programming Approach to Pricing in the Cloud**
-    - INFORMS Annual Meeting, Oct 2023
-    - University of Pittsburgh: AWM Student Seminar, Oct 2023
-    - Rice CMOR (formerly CAAM) Graduate Seminar, Oct 2023
-- **Multistage Stochastic Mixed Integer Programming using Decomposition of Structured Programs (DSP)**
-    - SIAM Conf. on Optimization (OP23): AWM Poster Session, May 2023
-    - Texas Women in Math Symposium, Mar 2023
-    - Rice CAAM Graduate Seminar, Feb 2023
-    - Summer Argonne Students Symposium, Aug 2022
-- **Absolute and Relative MIP Gap Functions & Their Properties**
-    - INFORMS Annual Meeting, Oct 2022
-    - Rice CAAM Graduate Seminar, Sept 2022
+## Selected Presentations
+- **Selecting Key Days for Electricity Grid Capacity Expansion Planning Considering Resilience to Compound Hazards**
+    - _Invited talk_, INFORMS Optimization Society Conference, Atlanta, GA, Mar 2026
+- **SPAROW: Enabling Performant Optimization of Stochastic Programs for Power Grid Planning**
+    - _Invited talk_, INFORMS Annual Meeting, Atlanta, GA, Oct 2025
+- **Performant Optimization of Power Systems: Resiliency, Operations, and Planning**
+    - _Invited talk_, USACM Energy & Earth Systems TTA Seminar, Livermore, CA, Oct 2025
+- **Generation and Transmission Expansion Planning for Resilience to Compound Hazards**
+    - Artificial Intelligence and Digital Twins for Earth Systems Workshop: Poster Session, Austin, TX, Sept 2025
+- **Multistage Stochastic Mixed Integer Programming Using Decomposition of Structured Programs (DSP)**
+    - SIAM Conference on Optimization: Association for Women in Math Poster Session, Seattle, WA, June 2023
+    - Texas Women in Math Symposium, Austin, TX, Mar 2023
+    - Rice University Department of Computational and Applied Math Graduate Seminar, Houston, TX, Feb 2023
+    - Summer Argonne Students Symposium, Lemont, IL, Aug 2022
 - **Periodicity of MIP Gap Functions**
     - Joint Mathematics Meetings: AWM Poster Session, Jan 2024
     - ICERM - Trends in Computational Discrete Optimization: Poster Session, May 2023
     - SIAM Annual Meeting (AN22): AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
-- **An Intro to Rice CAAM & Mixed Integer Programming**
-    - Rice CAAM Visiting Student Lecture, Feb 2022
-- **Evaluating MIP Models over Multiple Right-hand Sides**
-    - Rice CAAM Graduate Seminar, Oct 2021
-- **An Introduction to Set Theory**
-    - Chicago Academic Achievement Program, Aug 2018
 
 ## Selected Service
 - Forum for Women in Operations Research/Management Science (WORMS)
-    - **Mentoring & Outreach Liaison** (Jan 2023 - Current)
-- INFORMS Annual Meeting
+    - **Jr. VP of Mentoring & Outreach** (Jan 2026 - Current)
+    - **Mentoring & Outreach Liaison** (Jan 2023 - Dec 2025)
+- Computing in Science & Engineering
+    - **Reviewer** (May 2025 - Current)
+- INFORMS
+    - **Invited Session Chair** (Oct 2025, Mar 2026)
     - **Session Chair** (Oct 2023)
 - Rice Dept. of CAAM
     - **Graduate Seminar Chair** (Aug 2022 - Apr 2023)
