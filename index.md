@@ -1,6 +1,3 @@
-
-<img src='https://github.com/rachaelalfant/rachaelalfant.github.io/blob/main/headshot.jpg' width='200'>
-
 I am a postdoc at Sandia National Laboratories specializing in optimization and operations research for power grid planning. I received my PhD in Computational Mathematics & Operations Research at Rice University. 
 
 ### Contact info
