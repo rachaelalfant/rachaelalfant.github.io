@@ -6,7 +6,7 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 
 ## Recent News
 - I will be giving a talk at the [ICERM Workshop on Asynchronous Methods for Numerical Linear Algebra](https://icerm.brown.edu/program/topical_workshop/tw-26-amn) in May!
-- I attended and gave a talk on optimization for power grids at the [Rising Stars in Computational and Data Sciences Workshop](https://risingstars.oden.utexas.edu) in April.
+- I gave a talk on optimization for power grids at the [Rising Stars in Computational and Data Sciences Workshop](https://risingstars.oden.utexas.edu) in April.
 - I chaired an invited session and gave a talk about extreme day selection for electricity grid capacity expansion planning at the [INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu) in March.
 - I gave a talk about power grid resiliency at the [USACM Energy & Earth Systems TTA Seminar](https://www.usacm.org/site_home.cfm) in November.
 
@@ -16,20 +16,20 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 - **B.A.** Mathematics (General Honors), University of Chicago, March 2018
 
 ## Publications
-- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, C.L. Doyle, T.R. Edwards. **Selecting Key Days for Electricity Grid Capacity Expansion Planning Considering Resilience to Compound Hazards**. _In prep_.
-- **R. M. Alfant**, Z. Kilwein, M. Viens, G. Stinchfield, W. Hart. **Stochastic Programming And Related Optimization Workflows (SPAROW): A Python Package for Modeling and Solving Stochastic Programs with Pyomo**. _In prep_.
-- Z. Kilwein, **R. M. Alfant**, M. Viens, W. Hart. **Performant Optimization Strategies for Multifidelity Stochastic Programs on Power Grid Applications**. _In prep_.
-- Z. Kilwein, **R. M. Alfant**, W. Hart. **Challenges of Neural Networks in Generalizing Optimal Power Flow Solutions Across Diverse Power Grid Topologies**. _Submitted for publication_.
+- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, C.L. Doyle, T.R. Edwards. Selecting Key Days for Electricity Grid Capacity Expansion Planning Considering Resilience to Compound Hazards. _In prep_.
+- **R. M. Alfant**, Z. Kilwein, M. Viens, G. Stinchfield, W. Hart. Stochastic Programming And Related Optimization Workflows (SPAROW): A Python Package for Modeling and Solving Stochastic Programs with Pyomo. _In prep_.
+- Z. Kilwein, **R. M. Alfant**, M. Viens, W. Hart. Performant Optimization Strategies for Multifidelity Stochastic Programs on Power Grid Applications. _In prep_.
+- Z. Kilwein, **R. M. Alfant**, W. Hart. Challenges of Neural Networks in Generalizing Optimal Power Flow Solutions Across Diverse Power Grid Topologies. _Submitted for publication_.
 - T. Gunda, R. Valdez, Z. Kilwein, **R. M. Alfant**, J.K. Skolfield, R. Adams, N.D. Jackson. Wiring Resilience: Metrics for a Weather-Adapted Cyber-Physical Grid. _Submitted for publication_.
-- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, T.R. Edwards (2025). **Generation and Transmission Expansion Planning for Resilience to Compound Hazards**. _2025 Resilience Week (RWS), National Harbor, MD, USA_, p.1-8. [https://doi.org/10.1109/RWS66711.2025.11304451](https://doi.org/10.1109/RWS66711.2025.11304451).
-- Z. Kilwein, **R. M. Alfant**, W. Hart (2025). **Accelerating Stochastic Unit Commitment with Multifidelity Scenario Bundling**. _2025 57th North American Power Symposium (NAPS), Storrs, CT, USA_, p.1-6. [https://doi.org/10.1109/NAPS66256.2025.11272380](https://doi.org/10.1109/NAPS66256.2025.11272380).
-- **R.M. Alfant**, T. Ajayi, A.J. Schaefer (2023). **Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides**. _Operations Research Letters_, 51(4), 414-420. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
-- **R.M. Alfant** (2022). **“To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students**. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
+- **R. M. Alfant**, J.K. Skolfield, N.D. Jackson, T.R. Edwards (2025). Generation and Transmission Expansion Planning for Resilience to Compound Hazards. _2025 Resilience Week (RWS), National Harbor, MD, USA_, p.1-8. [https://doi.org/10.1109/RWS66711.2025.11304451](https://doi.org/10.1109/RWS66711.2025.11304451).
+- Z. Kilwein, **R. M. Alfant**, W. Hart (2025). Accelerating Stochastic Unit Commitment with Multifidelity Scenario Bundling. _2025 57th North American Power Symposium (NAPS), Storrs, CT, USA_, p.1-6. [https://doi.org/10.1109/NAPS66256.2025.11272380](https://doi.org/10.1109/NAPS66256.2025.11272380).
+- **R.M. Alfant**, T. Ajayi, A.J. Schaefer (2023). Evaluating Mixed-Integer Programming Models over Multiple Right-hand Sides. _Operations Research Letters_, 51(4), 414-420. [https://doi.org/10.1016/j.orl.2023.05.004](https://doi.org/10.1016/j.orl.2023.05.004). 
+- **R.M. Alfant** (2022). “To My Younger Self”: Bridging the Mentorship Gap for Underrepresented Students. _INFORMS Diversity Community Blog_. [https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap](https://connect.informs.org/diversity/diversity-blog/bridging-mentor-gap).
 
 ## Open-Source Software
-- [SPAROW: Stochastic Programming and Related Optimization Workflows](https://github.com/sandialabs/sparow/), _Main Development Team_, Python.
+- [SPAROW: Stochastic Programming And Related Optimization Workflows](https://github.com/sandialabs/sparow/), _Main Development Team_, Python.
 - [SPAROW Examples](https://github.com/sandialabs/sparow_examples/), _Main Development Team_, Python.
-- [NNOPF: Neural Networks for Optimal Power Flow](https://github.com/sandialabs/nnopf), _Contributor_, Python.
+- [nnopf: Neural Networks for Optimal Power Flow](https://github.com/sandialabs/nnopf), _Contributor_, Python.
 - [DSP: Decomposition of Structured Programs](https://github.com/kibaekkim/DSPopt.jl/tree/ra/multistage/examples/multistage), _Contributor: Multistage Stochastic Programming_, Julia.
 
 ## Research Experience 
@@ -38,20 +38,6 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 - **Givens Associate PhD Intern**, Argonne National Laboratory: Mathematics & Computer Science Division, Summer 2022
 - **Research Assistant**, University of Chicago: Booth School of Business, Summer 2019
 - **Research Assistant**, University of Chicago: Dept. of Public Health Sciences, Summer 2018
-
-## Teaching
-- **Instructor of Record**, Rice Emerging Scholars Program
-    - _Differential Calculus_, Summer 2023
-- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
-    - _INDE 501: Fundamentals of Industrial Engineering_, Fall 2022
-    - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
-    - _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
-- **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics 
-    - _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021, Spring 2023
-- **Teaching Assistant**, University of Chicago
-    - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
-    - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
-    - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016
 
 ## Selected Awards and Honors
 - **Outstanding Graduate Student Research Poster - Honorable Mention**, AWM-SIAM OP23 Poster Session, June 2023
@@ -81,6 +67,20 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
     - ICERM - Trends in Computational Discrete Optimization: Poster Session, May 2023
     - SIAM Annual Meeting (AN22): AWM Poster Session, July 2022
     - Mixed Integer Programming Workshop: Poster Session, June 2022
+ 
+## Teaching
+- **Instructor of Record**, Rice Emerging Scholars Program
+    - _Differential Calculus_, Summer 2023
+- **Teaching Assistant**, Rice University: Industrial Engineering Master's Program
+    - _INDE 501: Fundamentals of Industrial Engineering_, Fall 2022
+    - _INDE 597: Revenue Management & Dynamic Pricing_, Fall 2022  
+    - _INDE 572: Stochastic Processes & Simulation_, Spring 2022  
+- **Teaching Assistant**, Rice University: Dept. of Computational & Applied Mathematics 
+    - _CAAM 378: Intro to Optimization & Operations Research_, Fall 2021, Spring 2023
+- **Teaching Assistant**, University of Chicago
+    - Chicago Academic Achievement Program, _Honors Calculus with Proofs_, Summer 2016/2018 (Evaluations: 4.8/5.0)
+    - College Core Tutoring Program, _Calculus & Linear Algebra_, Winter 2017
+    - Dept. of Mathematics, _Math 131-132-133: Introduction to Calculus_, Fall 2015-2016
 
 ## Selected Service
 - Forum for Women in Operations Research/Management Science (WORMS)
