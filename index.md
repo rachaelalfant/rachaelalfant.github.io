@@ -5,7 +5,7 @@ I am a postdoc at Sandia National Laboratories specializing in optimization and 
 - **LinkedIn**: [https://www.linkedin.com/in/rachael-alfant/](https://www.linkedin.com/in/rachael-alfant/)
 
 ## Recent News
-- I will be giving a talk at the [ICERM Workshop on Asynchronous Methods for Numerical Linear Algebra](https://icerm.brown.edu/program/topical_workshop/tw-26-amn) in May!
+- I gave a talk at the [ICERM Workshop on Asynchronous Methods for Numerical Linear Algebra](https://icerm.brown.edu/program/topical_workshop/tw-26-amn) in May. The recording is available [here](https://icerm.brown.edu/video_archive/4617). 
 - I gave a talk on optimization for power grids at the [Rising Stars in Computational and Data Sciences Workshop](https://risingstars.oden.utexas.edu) in April.
 - I chaired an invited session and gave a talk about extreme day selection for electricity grid capacity expansion planning at the [INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu) in March.
 - I gave a talk about power grid resiliency at the [USACM Energy & Earth Systems TTA Seminar](https://www.usacm.org/site_home.cfm) in November.
